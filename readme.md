@@ -1,0 +1,1 @@
+For this project, the focus was on building a logger using node and give us practice transforming our data. We had to log all of the incoming requests in a csv file and then convert it to json to output on the front end.
